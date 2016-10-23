@@ -270,7 +270,6 @@ hr {
   width: 1000px;
   height: 100%;
   margin: 0 auto;
-  padding-top: 70px;
   overflow: scroll;
 }
 
@@ -291,7 +290,7 @@ hr {
 }
 
 #portfolio .item {
-	margin-top: 50px;
+	margin: 50px 0;
 }
 
 #portfolio .item * {
