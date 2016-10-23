@@ -3,6 +3,10 @@
 	color: #515151;
 }
 
+a {
+	text-decoration: none;
+}
+
 h1 {
 	font-family: 'Roboto Slab', serif;
 	text-align: right;
